@@ -1,9 +1,9 @@
 # Blending_Motions_in_Unity
 
 Blending of:
-- Idle
-- Walking
-- Runnning
+- Idle (No keyborad input needed)
+- Walking ('W' pressed on keayboard)
+- Runnning ('W' + 'Left Shift' pressed on keyboard)
 
 motions using boolean parameters in AnimationControl Script.
 
